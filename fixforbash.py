@@ -22,5 +22,7 @@ pyautogui.press("enter")
 
 pyautogui.write("alias cls=clear")
 pyautogui.press("enter")
+pyautogui.write("alias subl='/c/Program\ Files/Sublime\ Text/subl.exe'")
+pyautogui.press("enter")
 pyautogui.write("cls")
 pyautogui.press("enter")
